@@ -2,4 +2,12 @@
   <Folder Name="/Itens de Solução/" />
   <Project Path="CadastroProdutos/CadastroProdutos.csproj" Id="a75905d6-3dda-4f0c-8083-4bd9a7df212e" />
   <Project Path="Exercicio02-CadastroLivros/Exercicio02-CadastroLivros.csproj" Id="9dbb0f22-61c7-4911-836e-1644bd6fbbab" />
+  <Project Path="Exercicio03-CadastroFuncionarios/Exercicio03-CadastroFuncionarios.csproj" Id="f722773f-2861-40b0-9201-38c2e1e9c246" />
+  <Project Path="Exercicio04-CadastroVeiculos/Exercicio04-CadastroVeiculos.csproj" Id="3a5dc1e9-2fcc-487d-a35f-87a83acbed0e" />
+  <Project Path="Exercicio05-CadastroFilmes/Exercicio05-CadastroFilmes.csproj" Id="22c1eaae-b0b8-4f29-b705-3e395c7658cd" />
+  <Project Path="Exercicio06-CadastroClientes/Exercicio06-CadastroClientes.csproj" Id="72b382be-2757-449d-8603-88b6285c7d8e" />
+  <Project Path="Exercicio07-CadastroCursos/Exercicio07-CadastroCursos.csproj" Id="d33dbd88-acd3-4311-991d-01bbdcf8108e" />
+  <Project Path="Exercicio08-CadastroPedidos/Exercicio08-CadastroPedidos.csproj" Id="eb49728c-5057-44fe-9cde-cd929162d880" />
+  <Project Path="Exercicio09-CadastroEquipamentos/Exercicio09-CadastroEquipamentos.csproj" Id="fed0fc21-4c7d-463b-b223-e620d570fdb2" />
+  <Project Path="Exercicio10-CadastroJogos/Exercicio10-CadastroJogos.csproj" Id="bdd778c1-3992-426a-8e2e-0911ca10347f" />
 </Solution>

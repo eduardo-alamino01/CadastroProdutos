@@ -1,0 +1,26 @@
+﻿using System;
+
+namespace Exercicio09_CadastroEquipamentos
+{
+    internal class Equipamento
+    {
+        public string Patrimonio;
+        public string Tipo;
+        public string Marca;
+        public string Modelo;
+        public string NumeroSerie;
+        public string Status;
+
+        public void MostrarEquipamento()
+        {
+            Console.WriteLine("\n===== DADOS DO EQUIPAMENTO =====");
+            Console.WriteLine($"Patrimônio: {Patrimonio}");
+            Console.WriteLine($"Tipo: {Tipo}");
+            Console.WriteLine($"Marca: {Marca}");
+            Console.WriteLine($"Modelo: {Modelo}");
+            Console.WriteLine($"Número de Série: {NumeroSerie}");
+            Console.WriteLine($"Status: {Status}");
+            Console.WriteLine("================================");
+        }
+    }
+}
