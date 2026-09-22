@@ -1,4 +1,5 @@
 <Solution>
   <Folder Name="/Itens de Solução/" />
   <Project Path="CadastroProdutos/CadastroProdutos.csproj" Id="a75905d6-3dda-4f0c-8083-4bd9a7df212e" />
+  <Project Path="Exercicio02-CadastroLivros/Exercicio02-CadastroLivros.csproj" Id="9dbb0f22-61c7-4911-836e-1644bd6fbbab" />
 </Solution>
